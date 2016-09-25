@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>136249364788-c67kumsaa4lbekctooqvf73s773tokbe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.136249364788-c67kumsaa4lbekctooqvf73s773tokbe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCSR0PSK1-5I9sAno8vA1NiaYp_2xCpjDU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>136249364788</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Derek.PokeDiscovery</string>
+	<key>PROJECT_ID</key>
+	<string>pokediscovery-4908d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pokediscovery-4908d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:136249364788:ios:bc633613f10a0e48</string>
+	<key>DATABASE_URL</key>
+	<string>https://pokediscovery-4908d.firebaseio.com</string>
+</dict>
+</plist>

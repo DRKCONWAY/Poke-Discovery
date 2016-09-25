@@ -19,17 +19,17 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="yIY-JH-Lzf"/>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pNd-Sm-UUW">
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="aft-c1-XtA"/>
                                     <constraint firstAttribute="width" constant="71" id="gAK-zf-cfI"/>
                                 </constraints>
-                                <state key="normal" image="pokeball"/>
+                                <state key="normal" image="Park_Ball-01-512"/>
                                 <connections>
                                     <action selector="spotRandomPokemon:" destination="BYZ-38-t0r" eventType="touchUpInside" id="F7U-vb-7rm"/>
                                 </connections>
                             </button>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="yIY-JH-Lzf"/>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
@@ -51,6 +51,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="pokeball" width="97" height="96"/>
+        <image name="Park_Ball-01-512" width="512" height="512"/>
     </resources>
 </document>
